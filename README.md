@@ -9,8 +9,10 @@ Objectives:
 Exercise 1
 Create a file, input.txt, and type the following 8 integers in it: 4 4 4 4 4 4 4 4.  Save the file and exit.  Write a program that reads data from the file input “input.txt”.  Your program should display an output similar to the one given below:
 
+=== === ==========
 x   x^2  Current Sum
 === === ==========
+
 4   16   4
 4   16   8
 4   16   12
