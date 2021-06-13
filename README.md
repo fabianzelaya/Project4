@@ -1,6 +1,6 @@
 # streamObjects
 
-### Objectives:
+Objectives:
 
 - read from/write to a file
 - create input and output stream objects
