@@ -1,3 +1,13 @@
+/**
+ * @file streamObjects.cpp
+ * @author Fabian Zelaya (fabianzelayahn)
+ * @brief 
+ * @version 0.1
+ * @date 2020-12-02
+ * 
+ * @copyright Copyright (c) 2020. Fabian Zelaya.
+ * 
+ */
 #include <iostream>
 #include <iomanip>
 #include <cmath>
