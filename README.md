@@ -28,4 +28,4 @@ Exercise 2
 
 Exercise 3
 
-- Change the values in _“input.txt”_ to the following: <2, 4, 6, 8, 10, 12, 14, 16> and execute your code again.
+- Change the values in _“input.txt”_ to the following: `2, 4, 6, 8, 10, 12, 14, 16` and execute your code again.
