@@ -1,11 +1,11 @@
 # streamObjects
 
-Objectives:
+**Objectives:**
 
 - read from/write to a file
 - create input and output stream objects
 
-Exercise 1
+**Exercise 1**
 
 - Create a file, _input.txt_, and type the following 8 integers in it: `4 4 4 4 4 4 4 4`.  Save the file and exit.  Write a program that reads data from the file input _“input.txt”_.  Your program should display an output similar to the one given below:
 
@@ -22,10 +22,10 @@ Exercise 1
 
 - The average of these 8 numbers is: `4`
 
-Exercise 2
+**Exercise 2**
 
 - Modify the above program such that the program writes the output to a file called _output.txt_, instead of displaying it.
 
-Exercise 3
+**Exercise 3**
 
 - Change the values in _“input.txt”_ to the following: `2, 4, 6, 8, 10, 12, 14, 16` and execute your code again.
